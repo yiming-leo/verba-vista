@@ -37,11 +37,21 @@ languages, English, Spanish, Chinese and multiple language tests, IELTS, TOEFL, 
 
 ## 🫧Usage
 
-1
+| Function                                  | Description                                                                                  | Status     | Version |
+|-------------------------------------------|----------------------------------------------------------------------------------------------|------------|---------|
+| IELTS Writing Answer                      | Including any IELTS writing skills, help learners to generate some useful sentences          | Upcoming   | 1.0.0   |
+| IELTS Writing Generate                    | Quickly generate writing drafts by specific command                                          | Upcoming   | 1.2.0   |
+| IELTS Writing Evaluation                  | Afford Writing content evaluation, Provides an analysis of the writing task                  | Upcoming   | 1.3.0   |
+| IELTS Writing Assistant                   | Provides writing guidance, helping learners to improve their writing skills word by word     | Upcoming   | 1.4.0   |
+| Ultimate Writing Assistant                | Includes all the features of Writing Assistant, append TOEFL, DET, PTE, etc. English test    | Upcoming   | 1.5.0   |
+| Ultimate Writing Assistant Pro            | Provides personalized writing guidance, Supports writing practice                            | Upcoming   | 1.6.0   |
+| Multilingual Writing Assistant            | Supports writing in multiple languages, English, Chinese, Spanish, German, etc.              | Upcoming   | 2.0.0   |
+| Multilingual Writing & Speaking Assistant | Supports writing and speaking in multiple languages, English, Chinese, Spanish, German, etc. | Upcoming   | 3.0.0   |
 
 ## 🎉Features
-
-1
+### Storage
+### Storage
+### Protocol
 
 ## 💦Contributing
 
@@ -53,9 +63,12 @@ Please see details of [License](https://img.shields.io/badge/License-Apache%202.
 
 ## 🔰About
 ### Who are We?
-`Contributor 1` Yiming Liao
+- [Yiming Liao](https://github.com/yiming-leo)
+
 <br>
-`Contributor 2` Cheng Cui
+
+- [Carl Chang](https://github.com/zhangthird)
+
 ### Why We Do?
 1. Situation<br>
 With the development of number in studying abroad of China, We have witnessed that most
