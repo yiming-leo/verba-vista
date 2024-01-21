@@ -55,7 +55,13 @@ Please see details of [License](https://img.shields.io/badge/License-Apache%202.
 ### Who are We?
 `Contributor 1` Yiming Liao
 <br>
-`Contributor 2` Cheng Cui
+`Contributor 2` Carl Chang
+<br>
+I am currently in my senior year at university. 
+My academic focus has been on Python, deep learning, and artificial intelligence. 
+This specialized education has provided me with a solid foundation in both theoretical and practical aspects of technology and data analysis. 
+Outside my studies, I find solace and balance through activities like meditation and contemplation. 
+As I approach the end of my university journey, I am excited to explore opportunities where I can apply my skills and knowledge, particularly in innovative fields that leverage advanced technologies and data science.
 ### Why We Do?
 1. Situation<br>
 With the development of number in studying abroad of China, We have witnessed that most
