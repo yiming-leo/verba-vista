@@ -66,6 +66,7 @@ Please see details of [License](https://img.shields.io/badge/License-Apache%202.
 - [Yiming Liao](https://github.com/yiming-leo)
 
 - [Carl Chang](https://github.com/zhangthird)
+<br>
 I am currently in my senior year at university. 
 My academic focus has been on Python, deep learning, and artificial intelligence. 
 This specialized education has provided me with a solid foundation in both theoretical and practical aspects of technology and data analysis. 
