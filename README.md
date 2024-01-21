@@ -11,9 +11,9 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/verba-vista.svg)](https://github.com/Hooorus/verba-vista/pulls)
 [![Contributors](https://img.shields.io/github/contributors/Hooorus/verba-vista.svg)](https://github.com/Hooorus/verba-vista/graphs/contributors)
 
-## Introduction
+## 🧭 1. Introduction
 
-🤖 VerbaVista is an AI Agent Model dedicated in Writing Eval &amp; Speaking Eval for Global Language learner, it has multiple
+🤖 VerbaVista is an AI Agent dedicated in Writing Eval &amp; Speaking Eval for Global Language learner, it has multiple
 languages, English, Spanish, Chinese and multiple language tests, IELTS, TOEFL, HSK and so on!
 
 🥳 It now supports Writing Section of IELTS, and it will support more (details in [Usage Section](#usage)) kinds of Global Tests & Multiple Languages in the future!
@@ -22,54 +22,59 @@ languages, English, Spanish, Chinese and multiple language tests, IELTS, TOEFL, 
 
 💕 If you feel this product is pretty good, please click `⭐stars` and `👁️watch`, thanks!
 
-## Table of Contents
-
-- 🧭[Installation](#installation)
-- 🫧[Usage](#usage)
-- 🎉[Features](#features)
-- 💦[Contributing](#contributing)
-- 🧾[License](#license)
-- 🔰[About](#about)
-
-## 🧭Installation
+## 🔍 2. Background
 
 
+## 🧇 3. Table of Contents
 
-## 🫧Usage
+- 💾 [Installation](#installation)
+- 🫧 [Usage](#usage)
+- 🎉 [Features](#features)
+- 💦 [Contributing](#contributing)
+- 🧾 [License](#license)
+- 🔰 [About](#about)
+
+## 💾 4. Installation
+
+
+
+## 🚀 5. Usage
 
 | Function                                  | Description                                                                                  | Status     | Version |
 |-------------------------------------------|----------------------------------------------------------------------------------------------|------------|---------|
 | IELTS Writing Answer                      | Including any IELTS writing skills, help learners to generate some useful sentences          | Upcoming   | 1.0.0   |
-| IELTS Writing Generate                    | Quickly generate writing drafts by specific command                                          | Upcoming   | 1.2.0   |
-| IELTS Writing Evaluation                  | Afford Writing content evaluation, Provides an analysis of the writing task                  | Upcoming   | 1.3.0   |
-| IELTS Writing Assistant                   | Provides writing guidance, helping learners to improve their writing skills word by word     | Upcoming   | 1.4.0   |
-| Ultimate Writing Assistant                | Includes all the features of Writing Assistant, append TOEFL, DET, PTE, etc. English test    | Upcoming   | 1.5.0   |
-| Ultimate Writing Assistant Pro            | Provides personalized writing guidance, Supports writing practice                            | Upcoming   | 1.6.0   |
+| IELTS Writing Generate                    | Quickly generate writing drafts by specific command                                          | Upcoming   | 1.1.0   |
+| IELTS Writing Evaluation                  | Afford Writing content evaluation, Provides an analysis of the writing task                  | Upcoming   | 1.2.0   |
+| IELTS Writing Assistant                   | Provides writing guidance, helping learners to improve their writing skills word by word     | Upcoming   | 1.3.0   |
+| Ultimate Writing Assistant                | Includes all the features of Writing Assistant, append TOEFL, DET, PTE, etc. English test    | Upcoming   | 1.4.0   |
+| Ultimate Writing Assistant Pro            | Provides personalized writing guidance, Supports writing practice                            | Upcoming   | 1.5.0   |
 | Multilingual Writing Assistant            | Supports writing in multiple languages, English, Chinese, Spanish, German, etc.              | Upcoming   | 2.0.0   |
 | Multilingual Writing & Speaking Assistant | Supports writing and speaking in multiple languages, English, Chinese, Spanish, German, etc. | Upcoming   | 3.0.0   |
 
-## 🎉Features
-### Storage
-### Storage
-### Protocol
+## 🎉 6. Features
+### 💦 Requirements
+### 🗽 Architecture
+### 🫧 Storage
+### 📨 Protocol
 
-## 💦Contributing
+
+## ❓ 7. FAQ
+
+## 🤝 8. Contributing
 
 1
 
-## 🧾License
+## 🧾 9. License
 
 Please see details of [License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-## 🔰About
-### Who are We?
+## 🔰 10. About
+### 🤟 Who are We?
 - [Yiming Liao](https://github.com/yiming-leo)
-
-<br>
 
 - [Carl Chang](https://github.com/zhangthird)
 
-### Why We Do?
+### 😀 Why We Do?
 1. Situation<br>
 With the development of number in studying abroad of China, We have witnessed that most
 student have the same problem in passing the Language test (writing & speaking shortages).
